@@ -1,0 +1,41 @@
+body {
+    font-family:sans-serif;
+    background-color: hsla(12, 98%, 50%, 0.801);
+    
+    
+}
+label {
+    font-size:20px;
+    display:block;
+    
+    
+}
+#name,#email,#number,#dropdown,textarea {
+    width: 90%;
+    padding: 10px;
+}
+.form {
+   margin:10%;
+   padding-left: 50px;
+   padding-top: 30px;
+   padding-bottom: 50px;
+   background-color: rgba(190, 149, 35, 0.349);
+}
+header {
+    text-align: center;
+    margin-top: 50px;
+    color: whitesmoke
+}
+#description {
+    text-align: center;
+    color:whitesmoke;
+}
+#submit {
+    background-color: rgba(51, 116, 89, 0.842);
+    padding:2% 40% 2% 40%;
+    width: 90%;
+}
+p {
+    margin-bottom:5px;
+    font-size: 20px;
+}
