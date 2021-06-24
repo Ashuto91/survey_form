@@ -4,4 +4,4 @@ This is one of the project in the series of Responsive Web Design of freeCodeCam
 
 See the working version here:
 
-https://ashuto91.github.io/survey_form/survey_form.html
+https://ashuto91.github.io/survey_form/
